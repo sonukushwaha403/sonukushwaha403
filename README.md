@@ -11,3 +11,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 -->
+![Vivek github stats](https://github-readme-stats.vercel.app/api?username=sonukushwaha403)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukushwaha403)](https://github.com/sonukushwaha403/github-readme-stats)

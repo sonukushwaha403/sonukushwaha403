@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as sophomer student @Jablapur engineering college
+- 🔭 I’m currently M.Tech CSE student @IIT Indore
 - 🌱 I’m currently learning container technology ie kubernetes and docker
 - 👯 I’m looking to collaborate on cncf
 - 🤔 I’m looking for help with web developers
